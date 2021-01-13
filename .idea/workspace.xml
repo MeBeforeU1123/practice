@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="" />
+    <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/java/base/11111" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +43,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -84,7 +90,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3383915" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RecentsManager">
@@ -328,6 +334,7 @@
       <workItem from="1609200907134" duration="7402000" />
       <workItem from="1609248496391" duration="274000" />
       <workItem from="1609989151117" duration="1795000" />
+      <workItem from="1610496748586" duration="1859000" />
     </task>
     <servers />
   </component>
@@ -339,14 +346,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1608100395991" />
-    <state x="422" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608455729000">
+    <state x="422" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610496827946">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="422" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1608455729000" />
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1608037795045">
+    <state x="422" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1610496827946" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1610498441355">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1608037795045" />
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1610498441355" />
     <state width="1276" height="207" key="GridCell.Tab.0.bottom" timestamp="1609230559710">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -411,9 +418,17 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1276" height="383" key="GridCell.Tab.3.right/0.0.1536.834@0.0.1536.834" timestamp="1608365893200" />
-    <state x="270" y="61" key="SettingsEditor" timestamp="1608023630766">
+    <state x="270" y="61" key="SettingsEditor" timestamp="1610498202924">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="270" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1608023630766" />
+    <state x="270" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1610498202924" />
+    <state x="564" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610498277718">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="564" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1610498277718" />
+    <state x="178" y="77" key="new project wizard" timestamp="1610498461359">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="77" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1610498461359" />
   </component>
 </project>
